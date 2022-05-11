@@ -17,3 +17,12 @@
 
 
 
+分支操作：1
+
+创建分支：git branch 分支名
+
+查看分支：git branch -v
+
+修改分支：
+
+切换分支：git checkout 分支名
