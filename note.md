@@ -23,6 +23,15 @@
 
 查看分支：git branch -v
 
-修改分支：
-
 切换分支：git checkout 分支名
+
+合并分支：git merge 分支名  注意（是站在当前分支合并你想合并的分支）
+
+
+
+远程库链接
+
+我的远程库git-demo链接： https://github.com/Rerainly/git-demo.git
+如果链接太长记不住，可以创建别名：git remote add 别名 连接名
+查询别名:git remote -v
+将本地仓库推送到远程仓库：git push 别名|链接  分支
