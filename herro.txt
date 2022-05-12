@@ -12,4 +12,4 @@ hello git
 hello git 
 hello git 
 hello git 这是master分支
-hello git 
+hello git 这是hot-fix分支
